@@ -1,0 +1,14 @@
+.heading-one{
+    color: aquamarine;
+    font-size: larger;
+    float: inherit;
+    margin-left: 100px;
+}
+.profile-photo{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.small-text{
+    font-size: 20px;
+}
